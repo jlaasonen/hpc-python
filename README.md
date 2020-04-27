@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/csc-training/hpc-python) 
+
 # Python in High Performance Computing
 
 Exercise material and model answers for the CSC course "Python in High Performance Computing". The course is part of PRACE Training activity at CSC.

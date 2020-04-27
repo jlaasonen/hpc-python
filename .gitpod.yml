@@ -1,0 +1,8 @@
+tasks:
+  - init: pip3 install -r ./requirements.txt
+image:
+  file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - eamodio.gitlens@10.2.1:ZI2Sl3DHdJu4aG2wW92CQQ==
